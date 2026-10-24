@@ -1,0 +1,7 @@
+<?php
+
+return [
+    'RAZORPAY_KEY_ID' => 'rzp_test_replace_me',
+    'RAZORPAY_KEY_SECRET' => 'replace_with_test_secret',
+    'RAZORPAY_WEBHOOK_SECRET' => 'replace_with_webhook_secret',
+];

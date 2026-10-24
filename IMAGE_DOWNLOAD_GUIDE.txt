@@ -1,0 +1,274 @@
+========================================
+MIMI SPORTS - IMAGE SOURCING GUIDE
+Complete Manual for Downloading 138 Product Images
+========================================
+
+PROJECT STATUS:
+===============
+✓ All image folders created (138 placeholder files exist)
+✓ Products.js configured correctly
+✓ Complete sourcing checklist ready: COMPLETE_SOURCING_CHECKLIST.csv
+
+YOUR TASK:
+==========
+Download realistic product photos to replace 138 placeholders
+
+FILES YOU NEED:
+===============
+1. COMPLETE_SOURCING_CHECKLIST.csv - Lists all 138 products with sources
+2. This guide - Step-by-step download instructions
+
+PROJECT LOCATION:
+=================
+Project Path: C:\Users\Farhan\OneDrive\Desktop\FARHAN\CollegeProject\Sports\mimi-sports_7\mimi-sports
+Images Folder: C:\Users\Farhan\OneDrive\Desktop\FARHAN\CollegeProject\Sports\mimi-sports_7\mimi-sports\public\images\products\
+
+STEP-BY-STEP INSTRUCTIONS:
+==========================
+
+PHASE 1: DOWNLOAD PROCESS
+--------------------------
+
+1. OPEN THE CHECKLIST:
+   - Open file: COMPLETE_SOURCING_CHECKLIST.csv
+   - Use Excel, Google Sheets, or any spreadsheet app
+   - 138 products in organized rows
+
+2. FOR EACH PRODUCT, YOU WILL SEE:
+   - Sport: Category (cricket, football, basketball, etc.)
+   - Product ID: Unique identifier (cricket-1, cricket-2, etc.)
+   - Filename: Exact name to save as (cricket-1.jpg)
+   - Product Name: What it actually is
+   - Brand: Nike, Adidas, Yonex, etc.
+   - Category: Equipment, Apparel, Footwear, etc.
+   - Search Terms: Keywords to help find the product
+   - Suggested Sources: Where to look (priority order)
+
+3. DOWNLOAD STRATEGY - Choose from options below:
+
+OPTION A: QUICK METHOD (Recommended Start)
+-------------------------------------------
+1. Go to Unsplash.com (free, CC0 licensed, no login needed)
+2. Search for the "Search Terms" from the checklist
+   Example: Search "Nike cricket bat" for cricket-1
+3. Find a photo that shows the product clearly
+4. Click image > Download (choose "Download Free")
+5. Save to: public/images/products/{sport}/
+6. RENAME the file to exact filename from checklist
+   Example: Rename to "cricket-1.jpg"
+7. Move to next product
+
+OPTION B: OFFICIAL BRAND WEBSITES
+-----------------------------------
+1. Check "Suggested Sources" for official sites
+   Example for cricket-1: "https://www.sgcricket.com"
+2. Navigate to their product page
+3. Find product photo
+4. Right-click image > "Save image as..."
+5. Save to: public/images/products/{sport}/
+6. RENAME to exact filename (cricket-1.jpg)
+7. Note: Not all products may have free downloadable photos
+
+OPTION C: AMAZON / EBAY (Reference Only)
+-----------------------------------------
+1. Search Amazon/eBay for the product
+2. Review their product page
+   WARNING: Do NOT download directly from Amazon/eBay
+   Instead, use their images as REFERENCE to find similar
+   products on free stock photo sites
+3. Search Unsplash/Pexels with same search terms
+4. Download from free source instead
+
+OPTION D: FREEPIK / PIXABAY
+---------------------------
+1. Go to Pixabay.com or Freepik.com
+2. Search for product category/terms
+3. Filter by "Free" license (if on Freepik)
+4. Download high-resolution version
+5. Save and rename as per checklist
+
+EXAMPLE WALKTHROUGH - Download cricket-1:
+===========================================
+
+Product: Sunny Tonny Cricket Bat (SG brand)
+Filename should be: cricket-1.jpg
+
+Step 1: Go to Unsplash.com
+Step 2: Search "cricket bat wooden"
+Step 3: Browse results, find clear product photo
+Step 4: Click image > "Download"
+Step 5: Download will save as "unsplash-[name].jpg"
+Step 6: Right-click file > Rename
+Step 7: Rename to: "cricket-1.jpg"
+Step 8: Copy file
+Step 9: Navigate to: public\images\products\cricket\
+Step 10: Paste file there
+Step 11: CHECK: cricket-1.jpg now exists in cricket folder
+Step 12: Move to cricket-2, repeat...
+
+BATCH DOWNLOAD STRATEGY:
+========================
+
+Recommended approach to stay organized:
+
+1. GROUP BY SPORT:
+   - Download all cricket images first (20)
+   - Then football (20)
+   - Then basketball (15)
+   - Etc.
+
+2. OR GROUP BY SOURCE:
+   - Download all Unsplash images first
+   - Then official brand sites
+   - Then Pixabay/Freepik
+
+3. FOLDER SETUP:
+   Create local temp folders while downloading:
+   - C:\temp\cricket\
+   - C:\temp\football\
+   - Then move sorted files to project
+
+4. ORGANIZE BY BATCH:
+   Week 1: Cricket (20) + Football (20) = 40 images
+   Week 2: Basketball (15) + Badminton (15) = 30 images
+   Week 3: Tennis (12) + Running (15) = 27 images
+   Week 4: Fitness (15) + Volleyball (10) = 25 images
+   Week 5: Table Tennis (8) + Boxing (8) = 16 images
+
+CRITICAL REQUIREMENTS:
+======================
+
+✓ FILENAME MUST BE EXACT:
+  - cricket-1.jpg (NOT cricket_1.jpg)
+  - football-20.jpg (NOT football20.jpg)
+  - basketball-15.jpg (NOT Basketball-15.jpg)
+  Use lowercase, use hyphens, use .jpg extension
+
+✓ CORRECT FOLDER:
+  - Cricket images → public/images/products/cricket/
+  - Football images → public/images/products/football/
+  - Basketball images → public/images/products/basketball/
+  Etc. for all 10 sports
+
+✓ IMAGE QUALITY:
+  - Preferred size: 600-1200px width
+  - Format: JPEG (.jpg or .jpeg)
+  - Background: White/neutral preferred
+  - Show product clearly (not action scenes or people)
+
+✓ LICENSE CHECK:
+  - Unsplash: CC0 (Free for any use) ✓
+  - Pexels: CC0 (Free) ✓
+  - Pixabay: Free for commercial use ✓
+  - Official brand sites: Usually OK for personal projects
+  Avoid: Heavy watermarks, copyright protected content
+
+VERIFICATION AFTER DOWNLOADING:
+================================
+
+After downloading all images:
+
+1. Check all files exist:
+   - Cricket: cricket-1.jpg through cricket-20.jpg (20 files)
+   - Football: football-1.jpg through football-20.jpg (20 files)
+   - Basketball: basketball-1.jpg through basketball-15.jpg (15 files)
+   - Badminton: badminton-1.jpg through badminton-15.jpg (15 files)
+   - Tennis: tennis-1.jpg through tennis-12.jpg (12 files)
+   - Running: running-1.jpg through running-15.jpg (15 files)
+   - Fitness: fitness-1.jpg through fitness-15.jpg (15 files)
+   - Volleyball: volleyball-1.jpg through volleyball-10.jpg (10 files)
+   - Table Tennis: table-tennis-1.jpg through table-tennis-8.jpg (8 files)
+   - Boxing: boxing-1.jpg through boxing-8.jpg (8 files)
+
+2. Test in browser:
+   - Run: npm run dev
+   - Navigate to: http://localhost:5173/products
+   - Verify images display correctly
+   - Check multiple products from each sport
+
+3. Quality check:
+   - Images should be clear and professional
+   - Products should be visible and recognizable
+   - No excessive watermarks or text overlays
+
+TROUBLESHOOTING:
+================
+
+Image doesn't show in browser:
+→ Check filename is EXACT (lowercase, hyphens)
+→ Verify file is in correct sport folder
+→ Refresh browser page (Ctrl+Shift+R to clear cache)
+
+Can't find image for a specific product:
+→ Try different search terms from checklist
+→ Try different sources
+→ OR: Use AI generation tool (Leonardo.AI, Replicate, etc.)
+
+Unsplash/Pexels search returns no results:
+→ Broaden search terms
+→ Search for category instead (e.g., "sports equipment" instead of brand name)
+→ Try alternative sources
+
+File is wrong format:
+→ Save ONLY as .jpg or .jpeg (not .png, .gif, .webp)
+→ Use online converter if needed: CloudConvert.com
+
+RECOMMENDED DOWNLOAD TOOLS:
+===========================
+
+Windows Built-in:
+→ Right-click > Save as... (works fine)
+
+Browser Extensions (Optional):
+→ Download Manager by Chrome
+→ Add-on for organizing batch downloads
+
+Free Software:
+→ 7-Zip (for organizing folders)
+→ Paint.NET (if you need to resize images)
+→ XnView (batch rename tool)
+
+Web Tools:
+→ Unsplash.com (best free source)
+→ Pexels.com (alternative free source)
+→ Pixabay.com (another good free source)
+
+TIMELINE ESTIMATE:
+==================
+
+138 products total
+
+Assuming:
+- 30 seconds to find and download each image
+- 10 minutes to verify and organize batch
+
+Cricket (20): 10 minutes + 2 min verify = 12 minutes
+Football (20): 10 minutes + 2 min verify = 12 minutes
+Basketball (15): 7.5 minutes + 2 min verify = 9.5 minutes
+Badminton (15): 7.5 minutes + 2 min verify = 9.5 minutes
+Tennis (12): 6 minutes + 2 min verify = 8 minutes
+Running (15): 7.5 minutes + 2 min verify = 9.5 minutes
+Fitness (15): 7.5 minutes + 2 min verify = 9.5 minutes
+Volleyball (10): 5 minutes + 2 min verify = 7 minutes
+Table Tennis (8): 4 minutes + 2 min verify = 6 minutes
+Boxing (8): 4 minutes + 2 min verify = 6 minutes
+
+TOTAL ESTIMATE: ~90 minutes (1.5 hours)
+Including breaks and minor issues: ~2-3 hours
+
+GETTING STARTED:
+================
+
+1. ✓ Already done: COMPLETE_SOURCING_CHECKLIST.csv is ready
+2. Open the CSV file in Excel or Google Sheets
+3. Start with CRICKET (20 images) as test category
+4. Follow steps above to download cricket-1 through cricket-20
+5. Once done, run npm run dev and test
+6. Repeat for remaining 9 sports
+7. After all 138 downloaded, run final verification
+
+NEXT STEP:
+==========
+→ Open: COMPLETE_SOURCING_CHECKLIST.csv
+→ Start downloading cricket images
+→ Feel free to ask questions if any product is hard to find!

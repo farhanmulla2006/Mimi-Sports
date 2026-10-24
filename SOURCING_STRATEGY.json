@@ -1,0 +1,130 @@
+{
+  "project": "Mimi Sports - Product Image Sourcing",
+  "total_products": 138,
+  "timestamp": "2026-08-20",
+  "strategy": "Phase 1: Legitimate Public Sources + Phase 2: AI Generation",
+  
+  "phase_1_sources": [
+    "Official brand product pages (Nike, Adidas, Puma, etc.)",
+    "Creative Commons licensed sports product photos",
+    "Public domain sports equipment databases",
+    "Manufacturer product catalogs",
+    "Brand press/media kits"
+  ],
+
+  "phase_2_approach": "AI-generated photorealistic product images for unavailable products",
+
+  "product_categories_by_sport": {
+    "cricket": {
+      "total": 20,
+      "categories": {
+        "Equipment": ["bat-1", "bat-2", "bat-3", "bat-4", "ball", "stumps", "helmet"],
+        "Apparel": ["jersey", "shirt", "trousers", "base-layer"],
+        "Footwear": ["spikes-1", "spikes-2", "shoes"],
+        "Protective Gear": ["helmet", "pads", "gloves", "thigh-guard", "abdominal-guard"],
+        "Accessories": ["kit-bag", "cap"]
+      }
+    },
+    
+    "football": {
+      "total": 20,
+      "categories": {
+        "Equipment": ["ball-1", "ball-2", "ball-3", "cones"],
+        "Footwear": ["boots-1", "boots-2", "boots-3", "boots-4", "boots-5", "kids-boots", "turf-trainers"],
+        "Apparel": ["jersey", "shorts", "tracksuit", "jacket", "goalkeeper-jersey", "socks"],
+        "Protective Gear": ["shin-guards", "elbow-knee-guard"],
+        "Accessories": ["gloves", "kit-bag"]
+      }
+    },
+
+    "basketball": {
+      "total": 15,
+      "categories": {
+        "Equipment": ["ball-1", "ball-2", "hoop-backboard"],
+        "Footwear": ["high-top-1", "low-top-1", "low-top-2", "kids-shoes"],
+        "Apparel": ["jersey", "shorts", "hoodie"],
+        "Protective Gear": ["ankle-support", "knee-sleeves"],
+        "Accessories": ["backpack"]
+      }
+    },
+
+    "badminton": {
+      "total": 15,
+      "categories": {
+        "Equipment": ["racquet-1", "racquet-2", "racquet-3", "shuttlecocks", "net-set"],
+        "Footwear": ["court-shoes-1", "court-shoes-2", "court-shoes-3", "training-shoes"],
+        "Apparel": ["polo", "skort", "jersey", "tracksuit"],
+        "Accessories": ["grip-tape", "kit-bag"]
+      }
+    },
+
+    "tennis": {
+      "total": 12,
+      "categories": {
+        "Equipment": ["racquet-1", "racquet-2", "racquet-3", "balls", "stringing-kit"],
+        "Footwear": ["court-shoes-1", "court-shoes-2", "court-shoes-3"],
+        "Apparel": ["polo", "skirt", "jacket"],
+        "Accessories": ["overgrip"]
+      }
+    },
+
+    "running": {
+      "total": 15,
+      "categories": {
+        "Equipment": [],
+        "Footwear": ["shoes-1", "shoes-2", "shoes-3", "shoes-4", "shoes-5", "kids-shoes"],
+        "Apparel": ["shorts", "tights", "singlet", "tee", "jacket", "half-zip", "cap"],
+        "Accessories": ["belt", "water-bottle"]
+      }
+    },
+
+    "fitness": {
+      "total": 15,
+      "categories": {
+        "Equipment": ["mat", "resistance-bands", "dumbbells", "foam-roller"],
+        "Footwear": ["cross-training-1", "cross-training-2", "cross-training-3"],
+        "Apparel": ["leggings", "tank", "joggers", "sports-bra", "hoodie"],
+        "Accessories": ["gloves", "shaker-bottle"]
+      }
+    },
+
+    "volleyball": {
+      "total": 10,
+      "categories": {
+        "Equipment": ["ball", "net-set"],
+        "Footwear": ["shoes-1", "shoes-2", "shoes-3"],
+        "Apparel": ["jersey", "shorts"],
+        "Protective Gear": ["knee-pads", "ankle-guard"],
+        "Accessories": ["kit-bag"]
+      }
+    },
+
+    "table-tennis": {
+      "total": 8,
+      "categories": {
+        "Equipment": ["paddle-1", "paddle-2", "balls", "table"],
+        "Footwear": ["shoes-1", "shoes-2"],
+        "Apparel": ["jersey"],
+        "Accessories": ["case"]
+      }
+    },
+
+    "boxing": {
+      "total": 8,
+      "categories": {
+        "Equipment": ["bag", "focus-mitts"],
+        "Footwear": [],
+        "Apparel": ["tee", "shorts"],
+        "Protective Gear": ["gloves-1", "gloves-2", "headgear", "hand-wraps"],
+        "Accessories": []
+      }
+    }
+  },
+
+  "sourcing_progress": {
+    "phase_1_completed": 0,
+    "phase_1_total": 138,
+    "phase_2_completed": 0,
+    "phase_2_total": 0
+  }
+}

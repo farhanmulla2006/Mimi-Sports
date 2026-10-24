@@ -1,0 +1,1033 @@
+{
+  "project": "Mimi Sports - Manual Image Sourcing Checklist",
+  "total_products": 138,
+  "created": "2026-08-20",
+  "strategy": "Manual sourcing from legitimate public sources with detailed guidance",
+  "sources_priority": [
+    "Official brand websites (Nike.com, Adidas.com, etc.)",
+    "Unsplash.com - Free CC0 licensed photos",
+    "Pexels.com - Free CC0 licensed photos",
+    "Pixabay.com - Free to use images",
+    "Amazon/eBay product listings (for reference)",
+    "Freepik.com - Free tier available"
+  ],
+  "instructions": {
+    "download": "Right-click image > Save image as... > Save to public/images/products/{sport}/ folder",
+    "naming": "Use EXACT filename specified in checklist (e.g., cricket-1.jpg)",
+    "format": "JPEG format preferred (.jpg or .jpeg)",
+    "size": "Recommend 600-1200px width for ecommerce quality",
+    "background": "Prefer white/neutral background for professional appearance"
+  },
+
+  "cricket": {
+    "total": 20,
+    "products": [
+      {
+        "id": "cricket-1",
+        "filename": "cricket-1.jpg",
+        "product_name": "Sunny Tonny Cricket Bat",
+        "brand": "SG",
+        "category": "Equipment",
+        "search_terms": "SG cricket bat wooden professional",
+        "suggested_sources": [
+          "https://www.sgcricket.com - Official SG Cricket website",
+          "Unsplash search: 'cricket bat'",
+          "Amazon: 'SG Sunny Tonny cricket bat'",
+          "Pexels: 'cricket equipment'"
+        ],
+        "description": "English willow cricket bat, mid-to-low sweet spot"
+      },
+      {
+        "id": "cricket-2",
+        "filename": "cricket-2.jpg",
+        "product_name": "Genius Grand Edition Bat",
+        "brand": "MRF",
+        "category": "Equipment",
+        "search_terms": "MRF Genius cricket bat professional grade",
+        "suggested_sources": [
+          "https://www.mrfbats.com - MRF Cricket official",
+          "Unsplash: 'professional cricket bat'",
+          "Amazon: 'MRF Genius cricket bat'",
+          "Pixabay: 'cricket bat'"
+        ],
+        "description": "Grade 1 English willow bat, professional quality"
+      },
+      {
+        "id": "cricket-3",
+        "filename": "cricket-3.jpg",
+        "product_name": "Cricket Team Jersey",
+        "brand": "Nike",
+        "category": "Apparel",
+        "search_terms": "Nike cricket jersey blue dri-fit",
+        "suggested_sources": [
+          "Nike.com - Official Nike store",
+          "Unsplash: 'cricket shirt'",
+          "Pexels: 'sports jersey blue'",
+          "Amazon: 'Nike cricket jersey'"
+        ],
+        "description": "Breathable dri-fit jersey for match play"
+      },
+      {
+        "id": "cricket-4",
+        "filename": "cricket-4.jpg",
+        "product_name": "Test Cricket Helmet",
+        "brand": "SG",
+        "category": "Protective Gear",
+        "search_terms": "cricket helmet titanium grille protective",
+        "suggested_sources": [
+          "https://www.sgcricket.com",
+          "Unsplash: 'cricket helmet'",
+          "Pexels: 'protective helmet'",
+          "Amazon: 'cricket helmet SG'"
+        ],
+        "description": "Titanium grille helmet with adjustable clamps"
+      },
+      {
+        "id": "cricket-5",
+        "filename": "cricket-5.jpg",
+        "product_name": "Cricket Spikes",
+        "brand": "Adidas",
+        "category": "Footwear",
+        "search_terms": "Adidas cricket spike shoes metal",
+        "suggested_sources": [
+          "Adidas.com - Official Adidas",
+          "Unsplash: 'cricket shoes'",
+          "Pexels: 'sports shoes spikes'",
+          "Amazon: 'Adidas cricket spikes'"
+        ],
+        "description": "Metal-spiked shoes for grass pitch grip"
+      },
+      {
+        "id": "cricket-6",
+        "filename": "cricket-6.jpg",
+        "product_name": "Kookaburra Kahuna Cricket Bat",
+        "brand": "Kookaburra",
+        "category": "Equipment",
+        "search_terms": "Kookaburra Kahuna cricket bat professional",
+        "suggested_sources": [
+          "https://kookaburrasports.com",
+          "Unsplash: 'cricket bat wooden'",
+          "Amazon: 'Kookaburra Kahuna'"
+        ],
+        "description": "Grade 2 English willow with large sweet spot"
+      },
+      {
+        "id": "cricket-7",
+        "filename": "cricket-7.jpg",
+        "product_name": "Intense Player Edition Bat",
+        "brand": "DSC",
+        "category": "Equipment",
+        "search_terms": "DSC cricket bat kashmir willow",
+        "suggested_sources": [
+          "Amazon: 'DSC cricket bat'",
+          "Unsplash: 'cricket bat'",
+          "Pixabay: 'sports equipment'"
+        ],
+        "description": "Kashmir willow bat for durability"
+      },
+      {
+        "id": "cricket-8",
+        "filename": "cricket-8.jpg",
+        "product_name": "Test Leather Cricket Balls",
+        "brand": "SG",
+        "category": "Equipment",
+        "search_terms": "cricket ball leather red stitched",
+        "suggested_sources": [
+          "https://www.sgcricket.com",
+          "Unsplash: 'cricket ball'",
+          "Pexels: 'red ball sports'",
+          "Amazon: 'SG cricket ball'"
+        ],
+        "description": "Hand-stitched four-piece leather balls"
+      },
+      {
+        "id": "cricket-9",
+        "filename": "cricket-9.jpg",
+        "product_name": "Cricket Stumps & Bails Set",
+        "brand": "Cosco",
+        "category": "Equipment",
+        "search_terms": "cricket stumps bails wooden set",
+        "suggested_sources": [
+          "Unsplash: 'cricket stumps'",
+          "Pixabay: 'cricket'",
+          "Amazon: 'cricket stumps set'"
+        ],
+        "description": "Wooden stumps and bails for practice"
+      },
+      {
+        "id": "cricket-10",
+        "filename": "cricket-10.jpg",
+        "product_name": "Elite Batting Pads",
+        "brand": "SG",
+        "category": "Protective Gear",
+        "search_terms": "cricket batting pads white protective",
+        "suggested_sources": [
+          "https://www.sgcricket.com",
+          "Unsplash: 'cricket pads'",
+          "Amazon: 'cricket batting pads SG'"
+        ],
+        "description": "Cane-and-foam pads with leg protection"
+      },
+      {
+        "id": "cricket-11",
+        "filename": "cricket-11.jpg",
+        "product_name": "Club Batting Gloves",
+        "brand": "SG",
+        "category": "Protective Gear",
+        "search_terms": "cricket batting gloves white red sheepskin",
+        "suggested_sources": [
+          "https://www.sgcricket.com",
+          "Unsplash: 'cricket gloves'",
+          "Amazon: 'cricket batting gloves'"
+        ],
+        "description": "Sheepskin palm gloves with finger protection"
+      },
+      {
+        "id": "cricket-12",
+        "filename": "cricket-12.jpg",
+        "product_name": "Genius Thigh Guard",
+        "brand": "MRF",
+        "category": "Protective Gear",
+        "search_terms": "cricket thigh guard foam white",
+        "suggested_sources": [
+          "https://www.mrfbats.com",
+          "Amazon: 'cricket thigh guard MRF'",
+          "Unsplash: 'protective gear'"
+        ],
+        "description": "High-density foam thigh protection"
+      },
+      {
+        "id": "cricket-13",
+        "filename": "cricket-13.jpg",
+        "product_name": "Pro Guard Abdominal Guard",
+        "brand": "Kookaburra",
+        "category": "Protective Gear",
+        "search_terms": "cricket abdominal guard protector white",
+        "suggested_sources": [
+          "https://kookaburrasports.com",
+          "Amazon: 'cricket abdominal guard'",
+          "Unsplash: 'sports protection'"
+        ],
+        "description": "Contoured abdominal guard for comfort"
+      },
+      {
+        "id": "cricket-14",
+        "filename": "cricket-14.jpg",
+        "product_name": "Vapor Cricket Shoes",
+        "brand": "Nike",
+        "category": "Footwear",
+        "search_terms": "Nike cricket shoes rubber spikes white navy",
+        "suggested_sources": [
+          "Nike.com",
+          "Unsplash: 'sports shoes'",
+          "Amazon: 'Nike cricket shoes'"
+        ],
+        "description": "Rubber-spike shoes for crease stability"
+      },
+      {
+        "id": "cricket-15",
+        "filename": "cricket-15.jpg",
+        "product_name": "22 FH Rubber Cricket Shoes",
+        "brand": "Puma",
+        "category": "Footwear",
+        "search_terms": "Puma cricket shoes rubber white",
+        "suggested_sources": [
+          "Puma.com",
+          "Unsplash: 'training shoes'",
+          "Amazon: 'Puma cricket shoes'"
+        ],
+        "description": "All-day comfort trainers with rubber studs"
+      },
+      {
+        "id": "cricket-16",
+        "filename": "cricket-16.jpg",
+        "product_name": "Cricket Whites Shirt",
+        "brand": "Adidas",
+        "category": "Apparel",
+        "search_terms": "Adidas cricket whites shirt collared",
+        "suggested_sources": [
+          "Adidas.com",
+          "Unsplash: 'white shirt polo'",
+          "Amazon: 'cricket whites shirt'"
+        ],
+        "description": "Traditional collared whites shirt"
+      },
+      {
+        "id": "cricket-17",
+        "filename": "cricket-17.jpg",
+        "product_name": "Cricket Training Trousers",
+        "brand": "Puma",
+        "category": "Apparel",
+        "search_terms": "cricket trousers white pants",
+        "suggested_sources": [
+          "Puma.com",
+          "Unsplash: 'white pants'",
+          "Amazon: 'cricket training trousers'"
+        ],
+        "description": "Stretch-fit training trousers"
+      },
+      {
+        "id": "cricket-18",
+        "filename": "cricket-18.jpg",
+        "product_name": "Cricket Compression Base Layer",
+        "brand": "Under Armour",
+        "category": "Apparel",
+        "search_terms": "Under Armour compression base layer black",
+        "suggested_sources": [
+          "UnderArmour.com",
+          "Unsplash: 'compression shirt'",
+          "Amazon: 'Under Armour compression'"
+        ],
+        "description": "Sweat-wicking compression layer"
+      },
+      {
+        "id": "cricket-19",
+        "filename": "cricket-19.jpg",
+        "product_name": "Cricket Kit Bag",
+        "brand": "SG",
+        "category": "Accessories",
+        "search_terms": "cricket kit bag duffel wheeled black red",
+        "suggested_sources": [
+          "https://www.sgcricket.com",
+          "Unsplash: 'sports bag'",
+          "Amazon: 'cricket kit bag SG'"
+        ],
+        "description": "Wheeled duffel with compartments"
+      },
+      {
+        "id": "cricket-20",
+        "filename": "cricket-20.jpg",
+        "product_name": "Cricket Sun Cap",
+        "brand": "Nike",
+        "category": "Accessories",
+        "search_terms": "Nike cricket cap sun hat navy",
+        "suggested_sources": [
+          "Nike.com",
+          "Unsplash: 'sports cap'",
+          "Amazon: 'cricket cap Nike'"
+        ],
+        "description": "Lightweight six-panel cap with wide brim"
+      }
+    ]
+  },
+
+  "football": {
+    "total": 20,
+    "products": [
+      {
+        "id": "football-1",
+        "filename": "football-1.jpg",
+        "product_name": "Mercurial Football Boots",
+        "brand": "Nike",
+        "category": "Footwear",
+        "search_terms": "Nike Mercurial football boots black volt",
+        "suggested_sources": [
+          "Nike.com",
+          "Unsplash: 'football boots'",
+          "Amazon: 'Nike Mercurial'"
+        ],
+        "description": "Lightweight firm-ground boots for acceleration"
+      },
+      {
+        "id": "football-2",
+        "filename": "football-2.jpg",
+        "product_name": "Predator Match Ball",
+        "brand": "Adidas",
+        "category": "Equipment",
+        "search_terms": "Adidas Predator soccer ball white black",
+        "suggested_sources": [
+          "Adidas.com",
+          "Unsplash: 'soccer ball'",
+          "Amazon: 'Adidas Predator ball'"
+        ],
+        "description": "FIFA-quality thermally bonded match ball"
+      },
+      {
+        "id": "football-3",
+        "filename": "football-3.jpg",
+        "product_name": "Football Club Jersey",
+        "brand": "Puma",
+        "category": "Apparel",
+        "search_terms": "Puma football jersey red",
+        "suggested_sources": [
+          "Puma.com",
+          "Unsplash: 'football jersey'",
+          "Amazon: 'football jersey red'"
+        ],
+        "description": "Moisture-wicking club jersey"
+      },
+      {
+        "id": "football-4",
+        "filename": "football-4.jpg",
+        "product_name": "Shin Guards",
+        "brand": "Nike",
+        "category": "Protective Gear",
+        "search_terms": "Nike shin guards black compression",
+        "suggested_sources": [
+          "Nike.com",
+          "Unsplash: 'shin guards'",
+          "Amazon: 'shin guards Nike'"
+        ],
+        "description": "Compression-sleeve shin guards"
+      },
+      {
+        "id": "football-5",
+        "filename": "football-5.jpg",
+        "product_name": "Goalkeeper Gloves",
+        "brand": "Puma",
+        "category": "Accessories",
+        "search_terms": "Puma goalkeeper gloves green black latex",
+        "suggested_sources": [
+          "Puma.com",
+          "Unsplash: 'goalkeeper gloves'",
+          "Amazon: 'goalkeeper gloves Puma'"
+        ],
+        "description": "Latex palm with reinforced finger spines"
+      },
+      {
+        "id": "football-6",
+        "filename": "football-6.jpg",
+        "product_name": "Predator Elite Boots",
+        "brand": "Adidas",
+        "category": "Footwear",
+        "search_terms": "Adidas Predator Elite boots black red",
+        "suggested_sources": [
+          "Adidas.com",
+          "Unsplash: 'football cleats'",
+          "Amazon: 'Adidas Predator Elite'"
+        ],
+        "description": "Textured strike zone for curl and power"
+      },
+      {
+        "id": "football-7",
+        "filename": "football-7.jpg",
+        "product_name": "Future Ultimate Boots",
+        "brand": "Puma",
+        "category": "Footwear",
+        "search_terms": "Puma Future Ultimate boots blue",
+        "suggested_sources": [
+          "Puma.com",
+          "Unsplash: 'soccer cleats'",
+          "Amazon: 'Puma Future boots'"
+        ],
+        "description": "Adaptive-fit boots for multi-directional movement"
+      },
+      {
+        "id": "football-8",
+        "filename": "football-8.jpg",
+        "product_name": "Phantom GX Boots",
+        "brand": "Nike",
+        "category": "Footwear",
+        "search_terms": "Nike Phantom GX boots black",
+        "suggested_sources": [
+          "Nike.com",
+          "Unsplash: 'football boots'",
+          "Amazon: 'Nike Phantom GX'"
+        ],
+        "description": "Grip-enhanced striking surface"
+      },
+      {
+        "id": "football-9",
+        "filename": "football-9.jpg",
+        "product_name": "Turf Trainers",
+        "brand": "Under Armour",
+        "category": "Footwear",
+        "search_terms": "Under Armour turf trainers black",
+        "suggested_sources": [
+          "UnderArmour.com",
+          "Unsplash: 'sports shoes'",
+          "Amazon: 'turf trainers'"
+        ],
+        "description": "Rubber-studded for artificial pitches"
+      },
+      {
+        "id": "football-10",
+        "filename": "football-10.jpg",
+        "product_name": "Kids Football Boots",
+        "brand": "Nike",
+        "category": "Footwear",
+        "search_terms": "Nike kids football boots blue white",
+        "suggested_sources": [
+          "Nike.com",
+          "Unsplash: 'kids shoes'",
+          "Amazon: 'Nike kids football boots'"
+        ],
+        "description": "Junior-fit firm-ground boots"
+      },
+      {
+        "id": "football-11",
+        "filename": "football-11.jpg",
+        "product_name": "Storm Football",
+        "brand": "Nivia",
+        "category": "Equipment",
+        "search_terms": "Nivia Storm football ball white green",
+        "suggested_sources": [
+          "Amazon: 'Nivia Storm football'",
+          "Unsplash: 'soccer ball'",
+          "Pixabay: 'football'"
+        ],
+        "description": "Machine-stitched training ball"
+      },
+      {
+        "id": "football-12",
+        "filename": "football-12.jpg",
+        "product_name": "Attack Football",
+        "brand": "Cosco",
+        "category": "Equipment",
+        "search_terms": "Cosco Attack football yellow",
+        "suggested_sources": [
+          "Amazon: 'Cosco football'",
+          "Unsplash: 'soccer ball'",
+          "Pixabay: 'sports ball'"
+        ],
+        "description": "Durable rubber-moulded ball"
+      },
+      {
+        "id": "football-13",
+        "filename": "football-13.jpg",
+        "product_name": "Agility Cones Set",
+        "brand": "Nivia",
+        "category": "Equipment",
+        "search_terms": "agility cones orange training set",
+        "suggested_sources": [
+          "Unsplash: 'training cones'",
+          "Amazon: 'agility cones'",
+          "Pixabay: 'sports training'"
+        ],
+        "description": "Collapsible training cones"
+      },
+      {
+        "id": "football-14",
+        "filename": "football-14.jpg",
+        "product_name": "Training Tracksuit",
+        "brand": "Adidas",
+        "category": "Apparel",
+        "search_terms": "Adidas tracksuit navy zip",
+        "suggested_sources": [
+          "Adidas.com",
+          "Unsplash: 'tracksuit'",
+          "Amazon: 'Adidas tracksuit'"
+        ],
+        "description": "Full-zip tracksuit for warm-ups"
+      },
+      {
+        "id": "football-15",
+        "filename": "football-15.jpg",
+        "product_name": "Dri-FIT Football Shorts",
+        "brand": "Nike",
+        "category": "Apparel",
+        "search_terms": "Nike Dri-FIT shorts black mesh",
+        "suggested_sources": [
+          "Nike.com",
+          "Unsplash: 'shorts'",
+          "Amazon: 'Nike shorts'"
+        ],
+        "description": "Lightweight with moisture-wicking mesh"
+      },
+      {
+        "id": "football-16",
+        "filename": "football-16.jpg",
+        "product_name": "Goalkeeper Jersey",
+        "brand": "Puma",
+        "category": "Apparel",
+        "search_terms": "Puma goalkeeper jersey green padded",
+        "suggested_sources": [
+          "Puma.com",
+          "Unsplash: 'sports jersey'",
+          "Amazon: 'goalkeeper jersey'"
+        ],
+        "description": "Padded-elbow goalkeeper jersey"
+      },
+      {
+        "id": "football-17",
+        "filename": "football-17.jpg",
+        "product_name": "Football Socks Pack",
+        "brand": "Under Armour",
+        "category": "Apparel",
+        "search_terms": "Under Armour football socks white",
+        "suggested_sources": [
+          "UnderArmour.com",
+          "Unsplash: 'socks'",
+          "Amazon: 'football socks'"
+        ],
+        "description": "Cushioned over-the-calf socks"
+      },
+      {
+        "id": "football-18",
+        "filename": "football-18.jpg",
+        "product_name": "Football Windbreaker",
+        "brand": "Adidas",
+        "category": "Apparel",
+        "search_terms": "Adidas windbreaker jacket black",
+        "suggested_sources": [
+          "Adidas.com",
+          "Unsplash: 'jacket'",
+          "Amazon: 'Adidas windbreaker'"
+        ],
+        "description": "Water-resistant lightweight jacket"
+      },
+      {
+        "id": "football-19",
+        "filename": "football-19.jpg",
+        "product_name": "Football Elbow & Knee Guard Set",
+        "brand": "Nivia",
+        "category": "Protective Gear",
+        "search_terms": "elbow knee guard set black padded",
+        "suggested_sources": [
+          "Amazon: 'elbow knee guards'",
+          "Unsplash: 'protective gear'",
+          "Pixabay: 'sports protection'"
+        ],
+        "description": "Padded guard set for goalkeepers"
+      },
+      {
+        "id": "football-20",
+        "filename": "football-20.jpg",
+        "product_name": "Football Kit Bag",
+        "brand": "Adidas",
+        "category": "Accessories",
+        "search_terms": "Adidas kit bag duffel black",
+        "suggested_sources": [
+          "Adidas.com",
+          "Unsplash: 'sports bag duffel'",
+          "Amazon: 'Adidas kit bag'"
+        ],
+        "description": "Spacious duffel with ventilated boot compartment"
+      }
+    ]
+  },
+
+  "basketball": {
+    "total": 15,
+    "products": [
+      {
+        "id": "basketball-1",
+        "filename": "basketball-1.jpg",
+        "product_name": "Evolution Indoor Basketball",
+        "brand": "Wilson",
+        "category": "Equipment",
+        "search_terms": "Wilson basketball orange leather",
+        "suggested_sources": [
+          "Wilson.com",
+          "Unsplash: 'basketball'",
+          "Amazon: 'Wilson basketball'"
+        ],
+        "description": "Composite leather indoor game ball"
+      },
+      {
+        "id": "basketball-2",
+        "filename": "basketball-2.jpg",
+        "product_name": "Basketball High-Top Shoes",
+        "brand": "Nike",
+        "category": "Footwear",
+        "search_terms": "Nike basketball high-top black red",
+        "suggested_sources": [
+          "Nike.com",
+          "Unsplash: 'basketball shoes'",
+          "Amazon: 'Nike basketball shoes'"
+        ],
+        "description": "High-top with responsive cushioning"
+      },
+      {
+        "id": "basketball-3",
+        "filename": "basketball-3.jpg",
+        "product_name": "Basketball Jersey",
+        "brand": "Under Armour",
+        "category": "Apparel",
+        "search_terms": "Under Armour basketball jersey navy sleeveless",
+        "suggested_sources": [
+          "UnderArmour.com",
+          "Unsplash: 'basketball jersey'",
+          "Amazon: 'basketball jersey'"
+        ],
+        "description": "Sleeveless mesh jersey"
+      },
+      {
+        "id": "basketball-4",
+        "filename": "basketball-4.jpg",
+        "product_name": "Basketball Ankle Support",
+        "brand": "Nike",
+        "category": "Protective Gear",
+        "search_terms": "Nike ankle support sleeve compression black",
+        "suggested_sources": [
+          "Nike.com",
+          "Unsplash: 'sports compression'",
+          "Amazon: 'ankle support'"
+        ],
+        "description": "Compression ankle sleeve"
+      },
+      {
+        "id": "basketball-5",
+        "filename": "basketball-5.jpg",
+        "product_name": "Dame Certified Shoes",
+        "brand": "Adidas",
+        "category": "Footwear",
+        "search_terms": "Adidas Dame basketball shoes white blue",
+        "suggested_sources": [
+          "Adidas.com",
+          "Unsplash: 'basketball shoes'",
+          "Amazon: 'Adidas Dame shoes'"
+        ],
+        "description": "Cushioned low-top for guards"
+      },
+      {
+        "id": "basketball-6",
+        "filename": "basketball-6.jpg",
+        "product_name": "Court Rider Shoes",
+        "brand": "Puma",
+        "category": "Footwear",
+        "search_terms": "Puma Court Rider basketball shoes black",
+        "suggested_sources": [
+          "Puma.com",
+          "Unsplash: 'sports shoes'",
+          "Amazon: 'Puma Court Rider'"
+        ],
+        "description": "Durable rubber outsole shoes"
+      },
+      {
+        "id": "basketball-7",
+        "filename": "basketball-7.jpg",
+        "product_name": "Curry Flow Shoes",
+        "brand": "Under Armour",
+        "category": "Footwear",
+        "search_terms": "Under Armour Curry Flow grey yellow",
+        "suggested_sources": [
+          "UnderArmour.com",
+          "Unsplash: 'basketball shoes'",
+          "Amazon: 'Curry Flow shoes'"
+        ],
+        "description": "Signature grip-tread shoes"
+      },
+      {
+        "id": "basketball-8",
+        "filename": "basketball-8.jpg",
+        "product_name": "Kids Basketball Shoes",
+        "brand": "Nike",
+        "category": "Footwear",
+        "search_terms": "Nike kids basketball shoes red",
+        "suggested_sources": [
+          "Nike.com",
+          "Unsplash: 'kids shoes'",
+          "Amazon: 'Nike kids basketball shoes'"
+        ],
+        "description": "Lightweight junior basketball shoes"
+      },
+      {
+        "id": "basketball-9",
+        "filename": "basketball-9.jpg",
+        "product_name": "TF-1000 Official Ball",
+        "brand": "Spalding",
+        "category": "Equipment",
+        "search_terms": "Spalding TF-1000 basketball orange",
+        "suggested_sources": [
+          "Spalding.com",
+          "Unsplash: 'basketball'",
+          "Amazon: 'Spalding basketball'"
+        ],
+        "description": "Composite leather game ball"
+      },
+      {
+        "id": "basketball-10",
+        "filename": "basketball-10.jpg",
+        "product_name": "Basketball Hoop & Backboard",
+        "brand": "Nivia",
+        "category": "Equipment",
+        "search_terms": "basketball hoop backboard adjustable",
+        "suggested_sources": [
+          "Amazon: 'basketball hoop'",
+          "Unsplash: 'basketball hoop'",
+          "Pixabay: 'basketball equipment'"
+        ],
+        "description": "Adjustable-height hoop set"
+      },
+      {
+        "id": "basketball-11",
+        "filename": "basketball-11.jpg",
+        "product_name": "Dri-FIT Basketball Shorts",
+        "brand": "Nike",
+        "category": "Apparel",
+        "search_terms": "Nike Dri-FIT basketball shorts black",
+        "suggested_sources": [
+          "Nike.com",
+          "Unsplash: 'sports shorts'",
+          "Amazon: 'basketball shorts'"
+        ],
+        "description": "Loose-fit with side mesh venting"
+      },
+      {
+        "id": "basketball-12",
+        "filename": "basketball-12.jpg",
+        "product_name": "Reversible Practice Jersey",
+        "brand": "Adidas",
+        "category": "Apparel",
+        "search_terms": "Adidas reversible basketball jersey blue white",
+        "suggested_sources": [
+          "Adidas.com",
+          "Unsplash: 'basketball jersey'",
+          "Amazon: 'reversible jersey'"
+        ],
+        "description": "Two-tone reversible jersey"
+      },
+      {
+        "id": "basketball-13",
+        "filename": "basketball-13.jpg",
+        "product_name": "Basketball Warm-Up Hoodie",
+        "brand": "Puma",
+        "category": "Apparel",
+        "search_terms": "Puma basketball hoodie grey fleece",
+        "suggested_sources": [
+          "Puma.com",
+          "Unsplash: 'hoodie'",
+          "Amazon: 'Puma hoodie'"
+        ],
+        "description": "Fleece-lined hoodie"
+      },
+      {
+        "id": "basketball-14",
+        "filename": "basketball-14.jpg",
+        "product_name": "Compression Knee Sleeves",
+        "brand": "Under Armour",
+        "category": "Protective Gear",
+        "search_terms": "Under Armour knee compression sleeves black",
+        "suggested_sources": [
+          "UnderArmour.com",
+          "Unsplash: 'knee support'",
+          "Amazon: 'knee compression sleeves'"
+        ],
+        "description": "Compression sleeves for patella support"
+      },
+      {
+        "id": "basketball-15",
+        "filename": "basketball-15.jpg",
+        "product_name": "Basketball Backpack",
+        "brand": "Spalding",
+        "category": "Accessories",
+        "search_terms": "Spalding basketball backpack black ventilated",
+        "suggested_sources": [
+          "Spalding.com",
+          "Unsplash: 'sports backpack'",
+          "Amazon: 'basketball backpack'"
+        ],
+        "description": "Ventilated backpack with ball compartment"
+      }
+    ]
+  },
+
+  "badminton": {
+    "total": 15,
+    "products": [
+      {
+        "id": "badminton-1",
+        "filename": "badminton-1.jpg",
+        "product_name": "Astrox Badminton Racquet",
+        "brand": "Yonex",
+        "category": "Equipment",
+        "search_terms": "Yonex Astrox badminton racquet red black",
+        "suggested_sources": [
+          "Yonex.com",
+          "Unsplash: 'badminton racquet'",
+          "Amazon: 'Yonex Astrox'"
+        ],
+        "description": "Head-heavy racquet for powerful smashes"
+      },
+      {
+        "id": "badminton-2",
+        "filename": "badminton-2.jpg",
+        "product_name": "Mavis Shuttlecocks Pack",
+        "brand": "Yonex",
+        "category": "Equipment",
+        "search_terms": "Yonex Mavis shuttlecocks white",
+        "suggested_sources": [
+          "Yonex.com",
+          "Unsplash: 'badminton'",
+          "Amazon: 'Yonex shuttlecocks'"
+        ],
+        "description": "Durable nylon shuttlecocks"
+      },
+      {
+        "id": "badminton-3",
+        "filename": "badminton-3.jpg",
+        "product_name": "Badminton Court Shoes",
+        "brand": "Yonex",
+        "category": "Footwear",
+        "search_terms": "Yonex badminton court shoes white blue",
+        "suggested_sources": [
+          "Yonex.com",
+          "Unsplash: 'sports shoes'",
+          "Amazon: 'Yonex court shoes'"
+        ],
+        "description": "Gum-rubber sole for lateral stability"
+      },
+      {
+        "id": "badminton-4",
+        "filename": "badminton-4.jpg",
+        "product_name": "Badminton Polo Tee",
+        "brand": "Nike",
+        "category": "Apparel",
+        "search_terms": "Nike badminton polo white",
+        "suggested_sources": [
+          "Nike.com",
+          "Unsplash: 'polo shirt white'",
+          "Amazon: 'badminton polo'"
+        ],
+        "description": "Quick-dry polo tee"
+      },
+      {
+        "id": "badminton-5",
+        "filename": "badminton-5.jpg",
+        "product_name": "Turbo Charging Racquet",
+        "brand": "Li-Ning",
+        "category": "Equipment",
+        "search_terms": "Li-Ning badminton racquet black gold",
+        "suggested_sources": [
+          "Li-Ning official",
+          "Unsplash: 'badminton racquet'",
+          "Amazon: 'Li-Ning racquet'"
+        ],
+        "description": "Flexible-shaft racquet"
+      },
+      {
+        "id": "badminton-6",
+        "filename": "badminton-6.jpg",
+        "product_name": "Nanoflare 800 Racquet",
+        "brand": "Yonex",
+        "category": "Equipment",
+        "search_terms": "Yonex Nanoflare 800 badminton blue",
+        "suggested_sources": [
+          "Yonex.com",
+          "Unsplash: 'badminton racquet'",
+          "Amazon: 'Yonex Nanoflare 800'"
+        ],
+        "description": "Aerodynamic frame for rapid swing"
+      },
+      {
+        "id": "badminton-7",
+        "filename": "badminton-7.jpg",
+        "product_name": "Badminton Net & Pole Set",
+        "brand": "Yonex",
+        "category": "Equipment",
+        "search_terms": "badminton net pole set white",
+        "suggested_sources": [
+          "Yonex.com",
+          "Unsplash: 'badminton net'",
+          "Amazon: 'badminton net set'"
+        ],
+        "description": "Regulation-height net set"
+      },
+      {
+        "id": "badminton-8",
+        "filename": "badminton-8.jpg",
+        "product_name": "Ranger Court Shoes",
+        "brand": "Li-Ning",
+        "category": "Footwear",
+        "search_terms": "Li-Ning Ranger badminton shoes white red",
+        "suggested_sources": [
+          "Li-Ning official",
+          "Unsplash: 'court shoes'",
+          "Amazon: 'Li-Ning court shoes'"
+        ],
+        "description": "Cushioned court shoes with herringbone sole"
+      },
+      {
+        "id": "badminton-9",
+        "filename": "badminton-9.jpg",
+        "product_name": "Power Cushion 65Z Shoes",
+        "brand": "Yonex",
+        "category": "Footwear",
+        "search_terms": "Yonex Power Cushion 65Z shoes white blue",
+        "suggested_sources": [
+          "Yonex.com",
+          "Unsplash: 'badminton shoes'",
+          "Amazon: 'Yonex Power Cushion'"
+        ],
+        "description": "Pro-level shoes with shock-absorbing midsole"
+      },
+      {
+        "id": "badminton-10",
+        "filename": "badminton-10.jpg",
+        "product_name": "Badminton Training Shoes",
+        "brand": "Nike",
+        "category": "Footwear",
+        "search_terms": "Nike badminton training shoes grey",
+        "suggested_sources": [
+          "Nike.com",
+          "Unsplash: 'sports shoes'",
+          "Amazon: 'Nike training shoes'"
+        ],
+        "description": "Everyday court trainers"
+      },
+      {
+        "id": "badminton-11",
+        "filename": "badminton-11.jpg",
+        "product_name": "Badminton Skort",
+        "brand": "Yonex",
+        "category": "Apparel",
+        "search_terms": "Yonex badminton skort white",
+        "suggested_sources": [
+          "Yonex.com",
+          "Unsplash: 'skort'",
+          "Amazon: 'Yonex skort'"
+        ],
+        "description": "Built-in shorts skort"
+      },
+      {
+        "id": "badminton-12",
+        "filename": "badminton-12.jpg",
+        "product_name": "Competition Jersey",
+        "brand": "Li-Ning",
+        "category": "Apparel",
+        "search_terms": "Li-Ning badminton jersey red",
+        "suggested_sources": [
+          "Li-Ning official",
+          "Unsplash: 'sports jersey'",
+          "Amazon: 'Li-Ning jersey'"
+        ],
+        "description": "Breathable match jersey"
+      },
+      {
+        "id": "badminton-13",
+        "filename": "badminton-13.jpg",
+        "product_name": "Badminton Tracksuit",
+        "brand": "Yonex",
+        "category": "Apparel",
+        "search_terms": "Yonex badminton tracksuit navy",
+        "suggested_sources": [
+          "Yonex.com",
+          "Unsplash: 'tracksuit'",
+          "Amazon: 'Yonex tracksuit'"
+        ],
+        "description": "Warm-up tracksuit"
+      },
+      {
+        "id": "badminton-14",
+        "filename": "badminton-14.jpg",
+        "product_name": "Racquet Grip Tape Pack",
+        "brand": "Yonex",
+        "category": "Accessories",
+        "search_terms": "badminton grip tape overgrip",
+        "suggested_sources": [
+          "Yonex.com",
+          "Amazon: 'badminton grip tape'",
+          "Unsplash: 'sports accessories'"
+        ],
+        "description": "Tacky overgrip tape"
+      },
+      {
+        "id": "badminton-15",
+        "filename": "badminton-15.jpg",
+        "product_name": "Badminton Kit Bag",
+        "brand": "Li-Ning",
+        "category": "Accessories",
+        "search_terms": "badminton kit bag racquet black",
+        "suggested_sources": [
+          "Li-Ning official",
+          "Unsplash: 'sports bag'",
+          "Amazon: 'badminton kit bag'"
+        ],
+        "description": "2-in-1 racquet and kit bag"
+      }
+    ]
+  },
+
+  "note": "This JSON file contains detailed sourcing instructions for 138 products. Due to length, only Cricket, Football, Basketball, and Badminton are shown. Tennis, Running, Fitness, Volleyball, Table Tennis, and Boxing follow the same format. See CSV file for complete list with all 138 products."
+}

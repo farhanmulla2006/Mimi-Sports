@@ -1,0 +1,238 @@
+MIMI SPORTS - IMAGE SOURCING PROGRESS TRACKER
+==============================================
+
+Total Products: 138
+Target: Replace all placeholder images with realistic product photos
+
+CATEGORY PROGRESS:
+
+CRICKET (20 products)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[ ] cricket-1.jpg - Sunny Tonny Cricket Bat (SG)
+[ ] cricket-2.jpg - Genius Grand Edition Bat (MRF)
+[ ] cricket-3.jpg - Cricket Team Jersey (Nike)
+[ ] cricket-4.jpg - Test Cricket Helmet (SG)
+[ ] cricket-5.jpg - Cricket Spikes (Adidas)
+[ ] cricket-6.jpg - Kookaburra Kahuna Cricket Bat
+[ ] cricket-7.jpg - Intense Player Edition Bat (DSC)
+[ ] cricket-8.jpg - Test Leather Cricket Balls (SG)
+[ ] cricket-9.jpg - Cricket Stumps & Bails Set (Cosco)
+[ ] cricket-10.jpg - Elite Batting Pads (SG)
+[ ] cricket-11.jpg - Club Batting Gloves (SG)
+[ ] cricket-12.jpg - Genius Thigh Guard (MRF)
+[ ] cricket-13.jpg - Pro Guard Abdominal Guard (Kookaburra)
+[ ] cricket-14.jpg - Vapor Cricket Shoes (Nike)
+[ ] cricket-15.jpg - 22 FH Rubber Cricket Shoes (Puma)
+[ ] cricket-16.jpg - Cricket Whites Shirt (Adidas)
+[ ] cricket-17.jpg - Cricket Training Trousers (Puma)
+[ ] cricket-18.jpg - Cricket Compression Base Layer (Under Armour)
+[ ] cricket-19.jpg - Cricket Kit Bag (SG)
+[ ] cricket-20.jpg - Cricket Sun Cap (Nike)
+
+Progress: 0/20 ├────────────────────────┤ 0%
+
+
+FOOTBALL (20 products)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[ ] football-1.jpg - Mercurial Football Boots (Nike)
+[ ] football-2.jpg - Predator Match Ball (Adidas)
+[ ] football-3.jpg - Football Club Jersey (Puma)
+[ ] football-4.jpg - Shin Guards (Nike)
+[ ] football-5.jpg - Goalkeeper Gloves (Puma)
+[ ] football-6.jpg - Predator Elite Boots (Adidas)
+[ ] football-7.jpg - Future Ultimate Boots (Puma)
+[ ] football-8.jpg - Phantom GX Boots (Nike)
+[ ] football-9.jpg - Turf Trainers (Under Armour)
+[ ] football-10.jpg - Kids Football Boots (Nike)
+[ ] football-11.jpg - Storm Football (Nivia)
+[ ] football-12.jpg - Attack Football (Cosco)
+[ ] football-13.jpg - Agility Cones Set (Nivia)
+[ ] football-14.jpg - Training Tracksuit (Adidas)
+[ ] football-15.jpg - Dri-FIT Football Shorts (Nike)
+[ ] football-16.jpg - Goalkeeper Jersey (Puma)
+[ ] football-17.jpg - Football Socks Pack (Under Armour)
+[ ] football-18.jpg - Football Windbreaker (Adidas)
+[ ] football-19.jpg - Football Elbow & Knee Guard Set (Nivia)
+[ ] football-20.jpg - Football Kit Bag (Adidas)
+
+Progress: 0/20 ├────────────────────────┤ 0%
+
+
+BASKETBALL (15 products)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[ ] basketball-1.jpg - Evolution Indoor Basketball (Wilson)
+[ ] basketball-2.jpg - Basketball High-Top Shoes (Nike)
+[ ] basketball-3.jpg - Basketball Jersey (Under Armour)
+[ ] basketball-4.jpg - Basketball Ankle Support (Nike)
+[ ] basketball-5.jpg - Dame Certified Shoes (Adidas)
+[ ] basketball-6.jpg - Court Rider Shoes (Puma)
+[ ] basketball-7.jpg - Curry Flow Shoes (Under Armour)
+[ ] basketball-8.jpg - Kids Basketball Shoes (Nike)
+[ ] basketball-9.jpg - TF-1000 Official Ball (Spalding)
+[ ] basketball-10.jpg - Basketball Hoop & Backboard (Nivia)
+[ ] basketball-11.jpg - Dri-FIT Basketball Shorts (Nike)
+[ ] basketball-12.jpg - Reversible Practice Jersey (Adidas)
+[ ] basketball-13.jpg - Basketball Warm-Up Hoodie (Puma)
+[ ] basketball-14.jpg - Compression Knee Sleeves (Under Armour)
+[ ] basketball-15.jpg - Basketball Backpack (Spalding)
+
+Progress: 0/15 ├──────────────────┤ 0%
+
+
+BADMINTON (15 products)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[ ] badminton-1.jpg - Astrox Badminton Racquet (Yonex)
+[ ] badminton-2.jpg - Mavis Shuttlecocks Pack (Yonex)
+[ ] badminton-3.jpg - Badminton Court Shoes (Yonex)
+[ ] badminton-4.jpg - Badminton Polo Tee (Nike)
+[ ] badminton-5.jpg - Turbo Charging Racquet (Li-Ning)
+[ ] badminton-6.jpg - Nanoflare 800 Racquet (Yonex)
+[ ] badminton-7.jpg - Badminton Net & Pole Set (Yonex)
+[ ] badminton-8.jpg - Ranger Court Shoes (Li-Ning)
+[ ] badminton-9.jpg - Power Cushion 65Z Shoes (Yonex)
+[ ] badminton-10.jpg - Badminton Training Shoes (Nike)
+[ ] badminton-11.jpg - Badminton Skort (Yonex)
+[ ] badminton-12.jpg - Competition Jersey (Li-Ning)
+[ ] badminton-13.jpg - Badminton Tracksuit (Yonex)
+[ ] badminton-14.jpg - Racquet Grip Tape Pack (Yonex)
+[ ] badminton-15.jpg - Badminton Kit Bag (Li-Ning)
+
+Progress: 0/15 ├──────────────────┤ 0%
+
+
+TENNIS (12 products)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[ ] tennis-1.jpg - Pro Staff Tennis Racquet (Wilson)
+[ ] tennis-2.jpg - Tennis Court Shoes (Nike)
+[ ] tennis-3.jpg - Tennis Balls Pack (Wilson)
+[ ] tennis-4.jpg - Pure Drive Racquet (Babolat)
+[ ] tennis-5.jpg - Radical MP Racquet (Head)
+[ ] tennis-6.jpg - Racquet Stringing Kit (Wilson)
+[ ] tennis-7.jpg - Barricade Court Shoes (Adidas)
+[ ] tennis-8.jpg - Jet Mach Shoes (Babolat)
+[ ] tennis-9.jpg - Dri-FIT Tennis Polo (Nike)
+[ ] tennis-10.jpg - Tennis Skirt (Adidas)
+[ ] tennis-11.jpg - Tennis Warm-Up Jacket (Wilson)
+[ ] tennis-12.jpg - Overgrip Pack (Head)
+
+Progress: 0/12 ├────────────────┤ 0%
+
+
+RUNNING (15 products)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[ ] running-1.jpg - Air Zoom Pegasus Running Shoes (Nike)
+[ ] running-2.jpg - Ultraboost Light Running Shoes (Adidas)
+[ ] running-3.jpg - Running Shorts (Under Armour)
+[ ] running-4.jpg - Running Cap (Nike)
+[ ] running-5.jpg - Gel-Kayano Running Shoes (ASICS)
+[ ] running-6.jpg - Fresh Foam Running Shoes (New Balance)
+[ ] running-7.jpg - Velocity Nitro Shoes (Puma)
+[ ] running-8.jpg - Kids Running Shoes (Nike)
+[ ] running-9.jpg - Dri-FIT Running Tights (Nike)
+[ ] running-10.jpg - Running Singlet (Adidas)
+[ ] running-11.jpg - Running Jacket (Under Armour)
+[ ] running-12.jpg - Running T-Shirt (ASICS)
+[ ] running-13.jpg - Running Half-Zip Top (Puma)
+[ ] running-14.jpg - Running Belt (Nike)
+[ ] running-15.jpg - Running Water Bottle (Under Armour)
+
+Progress: 0/15 ├──────────────────┤ 0%
+
+
+FITNESS (15 products)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[ ] fitness-1.jpg - FlexFit Compression Leggings (Under Armour)
+[ ] fitness-2.jpg - Cross-Training Shoes (Adidas)
+[ ] fitness-3.jpg - Gym Training Gloves (Nike)
+[ ] fitness-4.jpg - Premium Yoga Mat (Under Armour)
+[ ] fitness-5.jpg - Dri-FIT Training Tank (Nike)
+[ ] fitness-6.jpg - Training Joggers (Adidas)
+[ ] fitness-7.jpg - Seamless Sports Bra (Puma)
+[ ] fitness-8.jpg - Training Hoodie (Under Armour)
+[ ] fitness-9.jpg - Nano X3 Training Shoes (Reebok)
+[ ] fitness-10.jpg - Metcon Training Shoes (Nike)
+[ ] fitness-11.jpg - Fuse Training Shoes (Puma)
+[ ] fitness-12.jpg - Resistance Bands Set (Under Armour)
+[ ] fitness-13.jpg - Adjustable Dumbbell Set (Nike)
+[ ] fitness-14.jpg - Foam Roller (Reebok)
+[ ] fitness-15.jpg - Gym Shaker Bottle (Under Armour)
+
+Progress: 0/15 ├──────────────────┤ 0%
+
+
+VOLLEYBALL (10 products)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[ ] volleyball-1.jpg - Volleyball Match Ball (Wilson)
+[ ] volleyball-2.jpg - Volleyball Knee Pads (Nike)
+[ ] volleyball-3.jpg - Volleyball Kit Bag (Wilson)
+[ ] volleyball-4.jpg - Volleyball Net & Post Set (Nivia)
+[ ] volleyball-5.jpg - Sky Elite Volleyball Shoes (ASICS)
+[ ] volleyball-6.jpg - Wave Lightning Shoes (Wilson)
+[ ] volleyball-7.jpg - Volleyball Training Shoes (Nike)
+[ ] volleyball-8.jpg - Volleyball Jersey (Puma)
+[ ] volleyball-9.jpg - Volleyball Spandex Shorts (Nike)
+[ ] volleyball-10.jpg - Volleyball Ankle Guard (Wilson)
+
+Progress: 0/10 ├─────────────────┤ 0%
+
+
+TABLE TENNIS (8 products)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[ ] table-tennis-1.jpg - Table Tennis Paddle (Yonex)
+[ ] table-tennis-2.jpg - Table Tennis Balls Pack (Yonex)
+[ ] table-tennis-3.jpg - Timo Boll Paddle (Butterfly)
+[ ] table-tennis-4.jpg - Table Tennis Table Indoor (Cosco)
+[ ] table-tennis-5.jpg - Lezoline Shoes (Butterfly)
+[ ] table-tennis-6.jpg - Table Tennis Training Shoes (Yonex)
+[ ] table-tennis-7.jpg - Table Tennis Jersey (Butterfly)
+[ ] table-tennis-8.jpg - Table Tennis Case (Yonex)
+
+Progress: 0/8 ├──────────────┤ 0%
+
+
+BOXING (8 products)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[ ] boxing-1.jpg - Boxing Training Gloves (Adidas)
+[ ] boxing-2.jpg - Boxing Training Tee (Under Armour)
+[ ] boxing-3.jpg - Pro Style Headgear (Everlast)
+[ ] boxing-4.jpg - Hand Wraps Pack (Everlast)
+[ ] boxing-5.jpg - Boxing Gloves (Nivia)
+[ ] boxing-6.jpg - Heavy Punch Bag (Everlast)
+[ ] boxing-7.jpg - Focus Mitts Pair (Everlast)
+[ ] boxing-8.jpg - Boxing Shorts (Everlast)
+
+Progress: 0/8 ├──────────────┤ 0%
+
+
+═══════════════════════════════════════════════════════════
+OVERALL PROGRESS: 0/138 ├────────────────────────────────────┤ 0%
+═══════════════════════════════════════════════════════════
+
+QUICK START CHECKLIST:
+======================
+[ ] Step 1: Review IMAGE_DOWNLOAD_GUIDE.txt (detailed instructions)
+[ ] Step 2: Open COMPLETE_SOURCING_CHECKLIST.csv (all 138 products with sources)
+[ ] Step 3: Start with Cricket category (20 images) as pilot
+[ ] Step 4: Download and save cricket images to public/images/products/cricket/
+[ ] Step 5: Verify all cricket images exist and test in browser
+[ ] Step 6: Continue with remaining sports categories
+[ ] Step 7: Final verification: npm run dev and visual test
+[ ] Step 8: Celebrate! 🎉
+
+INSTRUCTIONS FOR THIS FILE:
+===========================
+1. As you download each image, change [ ] to [✓]
+2. Check off each product as completed
+3. Save this file in your project root
+4. Track overall progress percentage
+5. Use to identify which products still need images
+
+TIPS:
+=====
+- Start with Unsplash.com (fastest, free, high quality)
+- Save time by downloading similar products in batches
+- Keep browser organized: open checklist + Unsplash together
+- Estimated time: 2-3 hours for all 138 products
+- Quality > Speed - take time to find good images
+
+Last Updated: Starting progress tracking now!

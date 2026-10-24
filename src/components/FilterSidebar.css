@@ -1,0 +1,44 @@
+.filter-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.filter-group__title {
+  font-size: 13px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--color-text);
+  margin-bottom: 14px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.filter-option {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 6px 2px;
+  font-size: 13.5px;
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  user-select: none;
+}
+
+.filter-option:hover {
+  color: var(--color-text);
+}
+
+.filter-option input {
+  width: 16px;
+  height: 16px;
+  accent-color: var(--color-accent);
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
+.filter-option input:checked + span {
+  color: var(--color-text);
+  font-weight: 600;
+}

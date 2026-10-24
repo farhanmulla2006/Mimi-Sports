@@ -1,0 +1,69 @@
+Sport,Product ID,Filename,Product Name,Brand,Category,Search Terms,Suggested Sources (Priority Order)
+Tennis,tennis-1,tennis-1.jpg,Pro Staff Tennis Racquet,Wilson,Equipment,Wilson tennis racquet professional,Wilson.com | Unsplash: tennis racquet | Amazon: Wilson Pro Staff
+Tennis,tennis-2,tennis-2.jpg,Tennis Court Shoes,Nike,Footwear,Nike tennis court shoes white,Nike.com | Unsplash: tennis shoes | Amazon: Nike tennis shoes
+Tennis,tennis-3,tennis-3.jpg,Tennis Balls Pack,Wilson,Accessories,tennis balls yellow pressurized,Wilson.com | Unsplash: tennis balls | Amazon: Wilson tennis balls
+Tennis,tennis-4,tennis-4.jpg,Pure Drive Racquet,Babolat,Equipment,Babolat Pure Drive tennis racquet,Babolat.com | Unsplash: tennis racquet | Amazon: Babolat Pure Drive
+Tennis,tennis-5,tennis-5.jpg,Radical MP Racquet,Head,Equipment,Head Radical MP tennis racquet,Head.com | Unsplash: tennis racquet | Amazon: Head Radical MP
+Tennis,tennis-6,tennis-6.jpg,Racquet Stringing Kit,Wilson,Equipment,tennis racquet stringing kit,Wilson.com | Amazon: tennis stringing kit | Unsplash: sports equipment
+Tennis,tennis-7,tennis-7.jpg,Barricade Court Shoes,Adidas,Footwear,Adidas Barricade tennis shoes white,Adidas.com | Unsplash: court shoes | Amazon: Adidas Barricade
+Tennis,tennis-8,tennis-8.jpg,Jet Mach Shoes,Babolat,Footwear,Babolat Jet Mach tennis shoes blue,Babolat.com | Unsplash: sports shoes | Amazon: Babolat Jet Mach
+Tennis,tennis-9,tennis-9.jpg,Dri-FIT Tennis Polo,Nike,Apparel,Nike Dri-FIT tennis polo white,Nike.com | Unsplash: polo shirt | Amazon: Nike tennis polo
+Tennis,tennis-10,tennis-10.jpg,Tennis Skirt,Adidas,Apparel,Adidas tennis skirt white,Adidas.com | Unsplash: tennis skirt | Amazon: Adidas tennis skirt
+Tennis,tennis-11,tennis-11.jpg,Tennis Warm-Up Jacket,Wilson,Apparel,Wilson tennis warm-up jacket navy,Wilson.com | Unsplash: sports jacket | Amazon: tennis jacket
+Tennis,tennis-12,tennis-12.jpg,Overgrip Pack,Head,Accessories,tennis overgrip absorbent,Head.com | Amazon: tennis overgrip | Unsplash: sports accessories
+Running,running-1,running-1.jpg,Air Zoom Pegasus Running Shoes,Nike,Footwear,Nike Air Zoom Pegasus grey volt,Nike.com | Unsplash: running shoes | Amazon: Nike Pegasus
+Running,running-2,running-2.jpg,Ultraboost Light Running Shoes,Adidas,Footwear,Adidas Ultraboost Light running shoes,Adidas.com | Unsplash: running shoes | Amazon: Adidas Ultraboost
+Running,running-3,running-3.jpg,Running Shorts,Under Armour,Apparel,Under Armour running shorts black,UnderArmour.com | Unsplash: running shorts | Amazon: Under Armour shorts
+Running,running-4,running-4.jpg,Running Cap,Nike,Accessories,Nike running cap black reflective,Nike.com | Unsplash: running cap | Amazon: Nike running cap
+Running,running-5,running-5.jpg,Gel-Kayano Running Shoes,ASICS,Footwear,ASICS Gel-Kayano running shoes grey,ASICS.com | Unsplash: running shoes | Amazon: ASICS Gel-Kayano
+Running,running-6,running-6.jpg,Fresh Foam Running Shoes,New Balance,Footwear,New Balance Fresh Foam running shoes black,NewBalance.com | Unsplash: running shoes | Amazon: New Balance Fresh Foam
+Running,running-7,running-7.jpg,Velocity Nitro Shoes,Puma,Footwear,Puma Velocity Nitro running shoes orange,Puma.com | Unsplash: running shoes | Amazon: Puma Velocity Nitro
+Running,running-8,running-8.jpg,Kids Running Shoes,Nike,Footwear,Nike kids running shoes blue,Nike.com | Unsplash: kids shoes | Amazon: Nike kids shoes
+Running,running-9,running-9.jpg,Dri-FIT Running Tights,Nike,Apparel,Nike Dri-FIT running tights compression,Nike.com | Unsplash: running tights | Amazon: Nike running tights
+Running,running-10,running-10.jpg,Running Singlet,Adidas,Apparel,Adidas running singlet yellow mesh,Adidas.com | Unsplash: sports singlet | Amazon: Adidas running singlet
+Running,running-11,running-11.jpg,Running Jacket,Under Armour,Apparel,Under Armour running jacket black wind,UnderArmour.com | Unsplash: running jacket | Amazon: Under Armour running jacket
+Running,running-12,running-12.jpg,Running T-Shirt,ASICS,Apparel,ASICS running tee grey breathable,ASICS.com | Unsplash: sports shirt | Amazon: ASICS running shirt
+Running,running-13,running-13.jpg,Running Half-Zip Top,Puma,Apparel,Puma running half-zip navy,Puma.com | Unsplash: running top | Amazon: Puma half-zip
+Running,running-14,running-14.jpg,Running Belt,Nike,Accessories,Nike running belt hydration black,Nike.com | Unsplash: running belt | Amazon: Nike running belt
+Running,running-15,running-15.jpg,Running Water Bottle,Under Armour,Accessories,Under Armour water bottle insulated blue,UnderArmour.com | Unsplash: water bottle | Amazon: Under Armour bottle
+Fitness,fitness-1,fitness-1.jpg,FlexFit Compression Leggings,Under Armour,Apparel,Under Armour compression leggings black,UnderArmour.com | Unsplash: leggings | Amazon: Under Armour leggings
+Fitness,fitness-2,fitness-2.jpg,Cross-Training Shoes,Adidas,Footwear,Adidas cross-training shoes white grey,Adidas.com | Unsplash: gym shoes | Amazon: Adidas cross-training
+Fitness,fitness-3,fitness-3.jpg,Gym Training Gloves,Nike,Accessories,Nike gym weightlifting gloves black,Nike.com | Unsplash: gym gloves | Amazon: Nike training gloves
+Fitness,fitness-4,fitness-4.jpg,Premium Yoga Mat,Under Armour,Equipment,Under Armour yoga mat purple,UnderArmour.com | Unsplash: yoga mat | Amazon: Under Armour mat
+Fitness,fitness-5,fitness-5.jpg,Dri-FIT Training Tank,Nike,Apparel,Nike Dri-FIT tank black racerback,Nike.com | Unsplash: sports tank | Amazon: Nike tank
+Fitness,fitness-6,fitness-6.jpg,Training Joggers,Adidas,Apparel,Adidas training joggers grey tapered,Adidas.com | Unsplash: joggers | Amazon: Adidas joggers
+Fitness,fitness-7,fitness-7.jpg,Seamless Sports Bra,Puma,Apparel,Puma seamless sports bra black,Puma.com | Unsplash: sports bra | Amazon: Puma sports bra
+Fitness,fitness-8,fitness-8.jpg,Training Hoodie,Under Armour,Apparel,Under Armour training hoodie charcoal,UnderArmour.com | Unsplash: hoodie | Amazon: Under Armour hoodie
+Fitness,fitness-9,fitness-9.jpg,Nano X3 Training Shoes,Reebok,Footwear,Reebok Nano X3 training shoes black,Reebok.com | Unsplash: gym shoes | Amazon: Reebok Nano X3
+Fitness,fitness-10,fitness-10.jpg,Metcon Training Shoes,Nike,Footwear,Nike Metcon training shoes grey,Nike.com | Unsplash: training shoes | Amazon: Nike Metcon
+Fitness,fitness-11,fitness-11.jpg,Fuse Training Shoes,Puma,Footwear,Puma Fuse training shoes white,Puma.com | Unsplash: gym shoes | Amazon: Puma Fuse
+Fitness,fitness-12,fitness-12.jpg,Resistance Bands Set,Under Armour,Equipment,resistance bands graduated set,Amazon: resistance bands | Unsplash: gym equipment
+Fitness,fitness-13,fitness-13.jpg,Adjustable Dumbbell Set,Nike,Equipment,adjustable dumbbells quick-change black,Amazon: adjustable dumbbells | Unsplash: weights
+Fitness,fitness-14,fitness-14.jpg,Foam Roller,Reebok,Equipment,Reebok foam roller black high-density,Reebok.com | Amazon: foam roller | Unsplash: recovery tools
+Fitness,fitness-15,fitness-15.jpg,Gym Shaker Bottle,Under Armour,Accessories,Under Armour shaker bottle leak-proof,UnderArmour.com | Amazon: shaker bottle | Unsplash: gym accessories
+Volleyball,volleyball-1,volleyball-1.jpg,Volleyball Match Ball,Wilson,Equipment,Wilson volleyball white yellow,Wilson.com | Unsplash: volleyball | Amazon: Wilson volleyball
+Volleyball,volleyball-2,volleyball-2.jpg,Volleyball Knee Pads,Nike,Protective Gear,Nike volleyball knee pads black cushioned,Nike.com | Unsplash: knee pads | Amazon: Nike knee pads
+Volleyball,volleyball-3,volleyball-3.jpg,Volleyball Kit Bag,Wilson,Accessories,Wilson volleyball kit bag black blue,Wilson.com | Unsplash: sports bag | Amazon: Wilson bag
+Volleyball,volleyball-4,volleyball-4.jpg,Volleyball Net & Post Set,Nivia,Equipment,volleyball net post set adjustable,Amazon: volleyball net | Unsplash: sports net
+Volleyball,volleyball-5,volleyball-5.jpg,Sky Elite Volleyball Shoes,ASICS,Footwear,ASICS Sky Elite volleyball shoes white red,ASICS.com | Unsplash: volleyball shoes | Amazon: ASICS Sky Elite
+Volleyball,volleyball-6,volleyball-6.jpg,Wave Lightning Shoes,Wilson,Footwear,Wilson Wave Lightning volleyball shoes blue,Wilson.com | Unsplash: court shoes | Amazon: Wilson Wave Lightning
+Volleyball,volleyball-7,volleyball-7.jpg,Volleyball Training Shoes,Nike,Footwear,Nike volleyball training shoes grey,Nike.com | Unsplash: sports shoes | Amazon: Nike training shoes
+Volleyball,volleyball-8,volleyball-8.jpg,Volleyball Jersey,Puma,Apparel,Puma volleyball jersey blue sleeveless,Puma.com | Unsplash: sports jersey | Amazon: Puma volleyball jersey
+Volleyball,volleyball-9,volleyball-9.jpg,Volleyball Spandex Shorts,Nike,Apparel,Nike volleyball shorts compression black,Nike.com | Unsplash: sports shorts | Amazon: Nike volleyball shorts
+Volleyball,volleyball-10,volleyball-10.jpg,Volleyball Ankle Guard,Wilson,Protective Gear,volleyball ankle guard supportive black,Amazon: ankle guard | Unsplash: protective gear
+Table-Tennis,table-tennis-1,table-tennis-1.jpg,Table Tennis Paddle,Yonex,Equipment,Yonex table tennis paddle red black,Yonex.com | Unsplash: table tennis | Amazon: Yonex paddle
+Table-Tennis,table-tennis-2,table-tennis-2.jpg,Table Tennis Balls Pack,Yonex,Accessories,Yonex table tennis balls white 3-star,Yonex.com | Amazon: ping pong balls | Unsplash: sports balls
+Table-Tennis,table-tennis-3,table-tennis-3.jpg,Timo Boll Paddle,Butterfly,Equipment,Butterfly Timo Boll table tennis paddle,Butterfly.com | Amazon: table tennis paddle | Unsplash: sports equipment
+Table-Tennis,table-tennis-4,table-tennis-4.jpg,Table Tennis Table Indoor,Cosco,Equipment,table tennis table indoor foldable,Amazon: ping pong table | Unsplash: table tennis
+Table-Tennis,table-tennis-5,table-tennis-5.jpg,Lezoline Shoes,Butterfly,Footwear,Butterfly Lezoline table tennis shoes white,Butterfly.com | Amazon: table tennis shoes | Unsplash: sports shoes
+Table-Tennis,table-tennis-6,table-tennis-6.jpg,Table Tennis Training Shoes,Yonex,Footwear,Yonex table tennis training shoes white,Yonex.com | Amazon: table tennis shoes | Unsplash: court shoes
+Table-Tennis,table-tennis-7,table-tennis-7.jpg,Table Tennis Jersey,Butterfly,Apparel,Butterfly table tennis jersey red match,Butterfly.com | Amazon: table tennis jersey | Unsplash: sports apparel
+Table-Tennis,table-tennis-8,table-tennis-8.jpg,Table Tennis Case,Yonex,Accessories,Yonex table tennis paddle case black,Yonex.com | Amazon: paddle case | Unsplash: sports bags
+Boxing,boxing-1,boxing-1.jpg,Boxing Training Gloves,Adidas,Protective Gear,Adidas boxing gloves black red training,Adidas.com | Unsplash: boxing gloves | Amazon: Adidas boxing gloves
+Boxing,boxing-2,boxing-2.jpg,Boxing Training Tee,Under Armour,Apparel,Under Armour boxing tee grey,UnderArmour.com | Unsplash: sports shirt | Amazon: Under Armour tee
+Boxing,boxing-3,boxing-3.jpg,Pro Style Headgear,Everlast,Protective Gear,Everlast pro style headgear black,Everlast.com | Amazon: boxing headgear | Unsplash: protective gear
+Boxing,boxing-4,boxing-4.jpg,Hand Wraps Pack,Everlast,Protective Gear,Everlast hand wraps elastic black,Everlast.com | Amazon: boxing hand wraps | Unsplash: sports wraps
+Boxing,boxing-5,boxing-5.jpg,Boxing Gloves,Nivia,Protective Gear,Nivia boxing gloves red padded,Amazon: boxing gloves | Unsplash: boxing equipment
+Boxing,boxing-6,boxing-6.jpg,Heavy Punch Bag,Everlast,Equipment,Everlast heavy punch bag 100lb black,Everlast.com | Amazon: punch bag | Unsplash: boxing equipment
+Boxing,boxing-7,boxing-7.jpg,Focus Mitts Pair,Everlast,Equipment,Everlast focus mitts curved black red,Everlast.com | Amazon: focus mitts | Unsplash: boxing pads
+Boxing,boxing-8,boxing-8.jpg,Boxing Shorts,Everlast,Apparel,Everlast boxing shorts satin black,Everlast.com | Amazon: boxing shorts | Unsplash: sports shorts

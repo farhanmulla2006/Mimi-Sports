@@ -1,0 +1,114 @@
+.sport-disc-card {
+  display: block;
+  position: relative;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  aspect-ratio: 1 / 1.1;
+  box-shadow: var(--shadow-sm);
+  transition: transform var(--transition-med), box-shadow var(--transition-med);
+}
+
+.sport-disc-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-lg);
+}
+
+.sport-disc-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform var(--transition-med);
+}
+
+.sport-disc-card:hover img {
+  transform: scale(1.07);
+}
+
+.sport-disc-card::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(17,24,39,0.1) 20%, rgba(17,24,39,0.92) 100%);
+  transition: background var(--transition-med);
+}
+
+.sport-disc-card:hover::after {
+  background: linear-gradient(180deg, rgba(17,24,39,0.2) 15%, rgba(17,24,39,0.96) 100%);
+}
+
+.sport-disc-card__content {
+  position: absolute;
+  left: 22px;
+  right: 22px;
+  bottom: 20px;
+  z-index: 1;
+  color: var(--color-white);
+}
+
+.sport-disc-card__name {
+  font-size: 19px;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+
+.sport-disc-card__desc {
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.65);
+  line-height: 1.5;
+  margin-bottom: 14px;
+  max-width: 240px;
+}
+
+.sport-disc-card__foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.sport-disc-card__count {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--color-accent);
+}
+
+.sport-disc-card__cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12.5px;
+  font-weight: 700;
+  transform: translateX(0);
+  transition: transform var(--transition-fast);
+}
+
+.sport-disc-card:hover .sport-disc-card__cta {
+  transform: translateX(4px);
+}
+
+/* Featured (Most Popular Sports) — larger card */
+.sport-disc-card--featured {
+  aspect-ratio: 1 / 0.95;
+}
+
+.sport-disc-card--featured .sport-disc-card__name {
+  font-size: 24px;
+}
+
+.sport-disc-card--featured .sport-disc-card__desc {
+  font-size: 14px;
+  max-width: 300px;
+}
+
+@media (max-width: 720px) {
+  .sport-disc-card__desc {
+    display: none;
+  }
+  .sport-disc-card__content {
+    left: 16px;
+    right: 16px;
+    bottom: 14px;
+  }
+}
