@@ -117,3 +117,5 @@ src/
 - Offers and AI Picks as dedicated pages
 - Functional cart, wishlist, and login flows
 - Backend/API integration to replace mock data
+# Mimi-Sports
+Sports Merchindise website  
